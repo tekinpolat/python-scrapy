@@ -18,5 +18,5 @@ class FlipkartphoneSpider(scrapy.Spider):
                 "price"             : item_html.css("div._30jeq3::text").get(),
             }
             
-        #for next_page in response.css('a._1LKTO3'):  #_1LKTO3
-        #    yield response.follow(next_page, self.parse)
+        for next_page in response.css('a._1LKTO3'):  
+            yield response.follow(next_page, self.parse)
