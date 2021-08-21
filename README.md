@@ -5,5 +5,5 @@
 ## scrapy genspider flipkart-phone www.flipkart.com
 ## RUN
 ## scrapy crawl flipkartphone
-## scrapy crawl flipkart-phone -O flipkart_phone.json
-## scrapy crawl flipkart-phone -L WARN
+## scrapy crawl flipkartphone -O flipkart_phone.json
+## scrapy crawl flipkartphone -L WARN
