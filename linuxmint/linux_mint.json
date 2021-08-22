@@ -1,0 +1,758 @@
+[
+    {
+        "img": "https://linuxmint.com/img/flags/35.gif",
+        "location": "World",
+        "mirror": "LayerOnline",
+        "mirror_link": "https://mirrors.layeronline.com/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/3.gif",
+        "location": "Canada",
+        "mirror": "Manitoba Unix User Group",
+        "mirror_link": "https://muug.ca/mirror/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/3.gif",
+        "location": "Canada",
+        "mirror": "University of Waterloo Computer Science Club",
+        "mirror_link": "https://mirror.csclub.uwaterloo.ca/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "advancedhosters.com",
+        "mirror_link": "https://mirrors.advancedhosters.com/linuxmint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "Clarkson University",
+        "mirror_link": "https://mirror.clarkson.edu/linuxmint/iso/images/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "ette.biz",
+        "mirror_link": "https://mirror.ette.biz/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "GigeNET",
+        "mirror_link": "https://mirrors.gigenet.com/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "Harvard School of Engineering",
+        "mirror_link": "http://mirrors.seas.harvard.edu/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "James Madison University",
+        "mirror_link": "https://mirror.cs.jmu.edu/pub/linuxmint/images/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "kernel.org",
+        "mirror_link": "https://mirrors.kernel.org/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "MetroCast Cablevision",
+        "mirror_link": "http://mirror.metrocast.net/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "Purdue Linux Users Group",
+        "mirror_link": "https://plug-mirror.rcac.purdue.edu/mint-images/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "Sonic",
+        "mirror_link": "https://mirrors.sonic.net/mint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "Syringa Networks",
+        "mirror_link": "https://mirrors.syringanetworks.net/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "Team Cymru",
+        "mirror_link": "http://mirror.team-cymru.com/mint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "TeraSwitch",
+        "mirror_link": "https://mirror.pit.teraswitch.com/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "University of Washington, Mathematics",
+        "mirror_link": "http://mintmirror.math.washington.edu/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "US Internet",
+        "mirror_link": "http://mirrors.usinternet.com/mint/images/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/1.gif",
+        "location": "USA",
+        "mirror": "XMission Internet",
+        "mirror_link": "https://mirrors.xmission.com/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/70.gif",
+        "location": "Belarus",
+        "mirror": "ByFly",
+        "mirror_link": "https://ftp.mgts.by/pub/linuxmint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/29.gif",
+        "location": "Bulgaria",
+        "mirror": "IPACCT",
+        "mirror_link": "http://mint.ipacct.com/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/29.gif",
+        "location": "Bulgaria",
+        "mirror": "Netix Ltd",
+        "mirror_link": "https://mirrors.netix.net/LinuxMint/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/29.gif",
+        "location": "Bulgaria",
+        "mirror": "Telepoint",
+        "mirror_link": "https://mirror.telepoint.bg/mint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/29.gif",
+        "location": "Bulgaria",
+        "mirror": "University of Ruse",
+        "mirror_link": "https://mirrors.uni-ruse.bg/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/31.gif",
+        "location": "Czech Republic",
+        "mirror": "CZ.NIC",
+        "mirror_link": "https://mirrors.nic.cz/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/31.gif",
+        "location": "Czech Republic",
+        "mirror": "IT4Innovations National Supercomputing Center",
+        "mirror_link": "http://mirror.it4i.cz/mint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/31.gif",
+        "location": "Czech Republic",
+        "mirror": "UPC Ceska republika",
+        "mirror_link": "https://mirror.karneval.cz/pub/linux/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/31.gif",
+        "location": "Czech Republic",
+        "mirror": "Webglobe",
+        "mirror_link": "https://mirror-prg.webglobe.com/linuxmint-cd/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/17.gif",
+        "location": "Denmark",
+        "mirror": "Dotsrc.org",
+        "mirror_link": "https://mirrors.dotsrc.org/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/17.gif",
+        "location": "Denmark",
+        "mirror": "KLID",
+        "mirror_link": "http://ftp.klid.dk/ftp/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/4.gif",
+        "location": "France",
+        "mirror": "CREXIO",
+        "mirror_link": "https://mirror.crexio.com/linuxmint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/4.gif",
+        "location": "France",
+        "mirror": "Crifo.org",
+        "mirror_link": "http://ftp.crifo.org/mint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/4.gif",
+        "location": "France",
+        "mirror": "Institut de G\ufffdn\ufffdtique Humaine",
+        "mirror_link": "https://ftp.igh.cnrs.fr/pub/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "Be a Lama, Inc.",
+        "mirror_link": "https://mirror.dogecloud.org/Linux/Mint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "Dark Penguin Network",
+        "mirror_link": "http://linux.darkpenguin.net/distros/mint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "dogado GmbH",
+        "mirror_link": "https://mirror.dogado.de/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "FH Aachen",
+        "mirror_link": "https://mirror.bauhuette.fh-aachen.de/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "Friedrich-Alexander-University of Erlangen-Nuremberg",
+        "mirror_link": "https://ftp.fau.de/mint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "Funkfreunde Landshut e.V.",
+        "mirror_link": "http://mirror.funkfreundelandshut.de/linuxmint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "GWDG",
+        "mirror_link": "https://ftp5.gwdg.de/pub/linux/debian/mint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "Hochschule Esslingen University of Applied Sciences",
+        "mirror_link": "https://ftp-stud.hs-esslingen.de/pub/Mirrors/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "I/P/B/ Internet Provider in Berlin GmbH",
+        "mirror_link": "https://mirror.as20647.net/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "NetCologne GmbH",
+        "mirror_link": "https://mirror.netcologne.de/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "Netzwerge GmbH",
+        "mirror_link": "https://mirror.netzwerge.de/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "PyrateLAN.party",
+        "mirror_link": "https://mirror.pyratelan.org/mint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "University of Frankfurt",
+        "mirror_link": "https://ftp.rz.uni-frankfurt.de/pub/mirrors/linux-mint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/9.gif",
+        "location": "Germany",
+        "mirror": "wilhelm.tel GmbH",
+        "mirror_link": "https://mirror.wtnet.de/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/14.gif",
+        "location": "Greece",
+        "mirror": "Hellenic Telecommunications Organization",
+        "mirror_link": "http://ftp.otenet.gr/linux/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/14.gif",
+        "location": "Greece",
+        "mirror": "MyAegean team, University of the Aegean",
+        "mirror_link": "http://mirrors.myaegean.gr/linux/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/14.gif",
+        "location": "Greece",
+        "mirror": "University of Crete",
+        "mirror_link": "https://ftp.cc.uoc.gr/mirrors/linux/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/90.gif",
+        "location": "Greenland",
+        "mirror": "Tele Greenland",
+        "mirror_link": "http://mirror.greennet.gl/linuxmint/iso/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/54.gif",
+        "location": "Hungary",
+        "mirror": "Quantum Mirror",
+        "mirror_link": "https://quantum-mirror.hu/mirrors/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/25.gif",
+        "location": "Ireland",
+        "mirror": "HEAnet",
+        "mirror_link": "https://ftp.heanet.ie/pub/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/58.gif",
+        "location": "Latvia",
+        "mirror": "University of Latvia",
+        "mirror_link": "https://ftp.linux.edu.lv/mirrors/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/43.gif",
+        "location": "Luxembourg",
+        "mirror": "root S.A.",
+        "mirror_link": "http://mint.mirror.root.lu/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/27.gif",
+        "location": "Netherlands",
+        "mirror": "Eric Kochen",
+        "mirror_link": "https://mirror.erickochen.nl/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/27.gif",
+        "location": "Netherlands",
+        "mirror": "KoDDoS",
+        "mirror_link": "https://mirror.koddos.net/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/27.gif",
+        "location": "Netherlands",
+        "mirror": "LiteServer",
+        "mirror_link": "https://linuxmint.mirror.liteserver.nl/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/27.gif",
+        "location": "Netherlands",
+        "mirror": "NLUUG",
+        "mirror_link": "https://ftp.nluug.nl/os/Linux/distr/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/27.gif",
+        "location": "Netherlands",
+        "mirror": "Triple IT",
+        "mirror_link": "https://mintlinux.mirror.wearetriple.com/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/28.gif",
+        "location": "Poland",
+        "mirror": "ICM - University of Warsaw",
+        "mirror_link": "https://ftp.icm.edu.pl/pub/Linux/dist/linuxmint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/30.gif",
+        "location": "Portugal",
+        "mirror": "FCCN",
+        "mirror_link": "https://mirror.fccn.pt/repos/pub/linuxmint_imgs/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/30.gif",
+        "location": "Portugal",
+        "mirror": "PTISP",
+        "mirror_link": "https://mirrors.ptisp.pt/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/30.gif",
+        "location": "Portugal",
+        "mirror": "RNL - T\ufffdcnico Lisboa",
+        "mirror_link": "https://ftp.rnl.tecnico.ulisboa.pt/pub/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/30.gif",
+        "location": "Portugal",
+        "mirror": "Universidade do Porto",
+        "mirror_link": "https://mirrors.up.pt/pub/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/44.gif",
+        "location": "Romania",
+        "mirror": "M247",
+        "mirror_link": "http://mirrors.m247.ro/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/44.gif",
+        "location": "Romania",
+        "mirror": "Telekom Romania",
+        "mirror_link": "http://mint.mirrors.telekom.ro/iso/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/41.gif",
+        "location": "Russia",
+        "mirror": "Powernet ISP",
+        "mirror_link": "http://mirrors.powernet.com.ru/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/41.gif",
+        "location": "Russia",
+        "mirror": "Truenetwork",
+        "mirror_link": "https://mirror.truenetwork.ru/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/41.gif",
+        "location": "Russia",
+        "mirror": "Yandex Team",
+        "mirror_link": "https://mirror.yandex.ru/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/94.gif",
+        "location": "Serbia",
+        "mirror": "University of Kragujevac",
+        "mirror_link": "http://mirror.pmf.kg.ac.rs/mint/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/49.gif",
+        "location": "Slovakia",
+        "mirror": "Energotel",
+        "mirror_link": "http://ftp.energotel.sk/pub/linux/mint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/49.gif",
+        "location": "Slovakia",
+        "mirror": "Rainside",
+        "mirror_link": "https://tux.rainside.sk/mint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/8.gif",
+        "location": "Spain",
+        "mirror": "Oficina de Software Libre do Cixug",
+        "mirror_link": "https://ftp.cixug.es/mint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/7.gif",
+        "location": "Sweden",
+        "mirror": "Academic Computer Club, Umea University",
+        "mirror_link": "https://ftp.acc.umu.se/mirror/linuxmint.com/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/7.gif",
+        "location": "Sweden",
+        "mirror": "c0urier.net",
+        "mirror_link": "https://mirrors.c0urier.net/linux/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/7.gif",
+        "location": "Sweden",
+        "mirror": "Infania Networks",
+        "mirror_link": "https://ftpmirror1.infania.net/mirror/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/7.gif",
+        "location": "Sweden",
+        "mirror": "Zetup",
+        "mirror_link": "https://mirror.zetup.net/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/23.gif",
+        "location": "Switzerland",
+        "mirror": "Init7",
+        "mirror_link": "https://mirror.init7.net/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/51.gif",
+        "location": "Turkey",
+        "mirror": "Linux Kullanicilari Dernegi",
+        "mirror_link": "https://ftp.linux.org.tr/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/51.gif",
+        "location": "Turkey",
+        "mirror": "Verinomi",
+        "mirror_link": "https://mirror.verinomi.com/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/76.gif",
+        "location": "Ukraine",
+        "mirror": "IP-Connect LLC",
+        "mirror_link": "https://linuxmint.ip-connect.vn.ua/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/2.gif",
+        "location": "United Kingdom",
+        "mirror": "Bytemark Hosting",
+        "mirror_link": "https://mirror.bytemark.co.uk/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/2.gif",
+        "location": "United Kingdom",
+        "mirror": "UK Dedicated Servers",
+        "mirror_link": "https://mirror.cov.ukservers.com/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/2.gif",
+        "location": "United Kingdom",
+        "mirror": "UKFast",
+        "mirror_link": "https://mirrors.ukfast.co.uk/sites/linuxmint.com/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/2.gif",
+        "location": "United Kingdom",
+        "mirror": "University of Kent UK Mirror Service",
+        "mirror_link": "https://www.mirrorservice.org/sites/www.linuxmint.com/pub/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/65.gif",
+        "location": "Bangladesh",
+        "mirror": "dhakaCom Limited",
+        "mirror_link": "http://mirror.dhakacom.com/linuxmint/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/65.gif",
+        "location": "Bangladesh",
+        "mirror": "XeonBD",
+        "mirror_link": "http://mirror.xeonbd.com/linuxmint.com/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/71.gif",
+        "location": "China",
+        "mirror": "Beijing Foreign Studies University",
+        "mirror_link": "https://mirrors.bfsu.edu.cn/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/71.gif",
+        "location": "China",
+        "mirror": "Shanghai Jiao Tong University Linux User Group (SJTUG)",
+        "mirror_link": "https://mirror.sjtu.edu.cn/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/71.gif",
+        "location": "China",
+        "mirror": "TUNA",
+        "mirror_link": "https://mirrors.tuna.tsinghua.edu.cn/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/71.gif",
+        "location": "China",
+        "mirror": "University of Science and Technology of China Linux User Group",
+        "mirror_link": "https://mirrors.ustc.edu.cn/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/75.gif",
+        "location": "Hong Kong",
+        "mirror": "KoDDoS",
+        "mirror_link": "https://mirror-hk.koddos.net/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/18.gif",
+        "location": "India",
+        "mirror": "PicoNets-WebWerks",
+        "mirror_link": "https://mirrors.piconets.webwerks.in/linuxmint-mirror/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/50.gif",
+        "location": "Indonesia",
+        "mirror": "Deace",
+        "mirror_link": "https://mirror.deace.id/linuxmint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/89.gif",
+        "location": "Iran",
+        "mirror": "HostIran",
+        "mirror_link": "https://mirror.hostiran.ir/mint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/32.gif",
+        "location": "Israel",
+        "mirror": "Israel Internet Association",
+        "mirror_link": "https://mirror.isoc.org.il/pub/mint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/83.gif",
+        "location": "Kazakhstan",
+        "mirror": "Hoster.kz",
+        "mirror_link": "https://mirror.hoster.kz/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/83.gif",
+        "location": "Kazakhstan",
+        "mirror": "PS Internet Company LLC",
+        "mirror_link": "https://mirror.ps.kz/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/38.gif",
+        "location": "Singapore",
+        "mirror": "0x.sg",
+        "mirror_link": "https://mirror.0x.sg/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/38.gif",
+        "location": "Singapore",
+        "mirror": "NUS",
+        "mirror_link": "https://download.nus.edu.sg/mirror/linuxmintiso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/66.gif",
+        "location": "South Korea",
+        "mirror": "Harukasan",
+        "mirror_link": "https://ftp.harukasan.org/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/66.gif",
+        "location": "South Korea",
+        "mirror": "KAIST",
+        "mirror_link": "https://ftp.kaist.ac.kr/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/37.gif",
+        "location": "Taiwan",
+        "mirror": "NCHC",
+        "mirror_link": "http://free.nchc.org.tw/linuxmint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/37.gif",
+        "location": "Taiwan",
+        "mirror": "TamKang University",
+        "mirror_link": "http://ftp.tku.edu.tw/Linux/LinuxMint/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/15.gif",
+        "location": "Thailand",
+        "mirror": "Kasetsart University",
+        "mirror_link": "http://mirror1.ku.ac.th/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/15.gif",
+        "location": "Thailand",
+        "mirror": "Khon Kaen University",
+        "mirror_link": "https://mirror.kku.ac.th/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/15.gif",
+        "location": "Thailand",
+        "mirror": "Songkla University",
+        "mirror_link": "http://mirrors.psu.ac.th/linuxmint-iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/47.gif",
+        "location": "Vietnam",
+        "mirror": "Freedif",
+        "mirror_link": "https://mirror.freedif.org/LinuxMint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/5.gif",
+        "location": "Australia",
+        "mirror": "AARNet",
+        "mirror_link": "https://mirror.aarnet.edu.au/pub/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/5.gif",
+        "location": "Australia",
+        "mirror": "Internode",
+        "mirror_link": "http://mirror.internode.on.net/pub/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/10.gif",
+        "location": "New Zealand",
+        "mirror": "University of Canterbury",
+        "mirror_link": "http://ucmirror.canterbury.ac.nz/linux/mint/isos/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/33.gif",
+        "location": "Argentina",
+        "mirror": "Zero.com.ar",
+        "mirror_link": "https://mint.zero.com.ar/mintcd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/16.gif",
+        "location": "Brazil",
+        "mirror": "C3SL",
+        "mirror_link": "http://mint.c3sl.ufpr.br/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/16.gif",
+        "location": "Brazil",
+        "mirror": "Federal University of Sao Carlos",
+        "mirror_link": "http://mirror.ufscar.br/mint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/16.gif",
+        "location": "Brazil",
+        "mirror": "ITS Telecomunicacoes",
+        "mirror_link": "https://mint.itsbrasil.net/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/16.gif",
+        "location": "Brazil",
+        "mirror": "UFMT",
+        "mirror_link": "https://isosmint.ic.ufmt.br/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/62.gif",
+        "location": "Chile",
+        "mirror": "NetActuate",
+        "mirror_link": "https://mirror1.cl.netactuate.com/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/62.gif",
+        "location": "Chile",
+        "mirror": "Universidad de La Frontera",
+        "mirror_link": "https://mirror.ufro.cl/linuxmint-cd/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/108.gif",
+        "location": "Ecuador",
+        "mirror": "CEDIA",
+        "mirror_link": "https://mirror.cedia.org.ec/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/108.gif",
+        "location": "Ecuador",
+        "mirror": "Escuela Politecnica Natcional",
+        "mirror_link": "https://mirror.epn.edu.ec/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/125.gif",
+        "location": "Botswana",
+        "mirror": "Retention Range",
+        "mirror_link": "http://mirror.retentionrange.co.bw/linuxmint/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/78.gif",
+        "location": "Kenya",
+        "mirror": "Liquid Telecom",
+        "mirror_link": "https://linuxmint.mirror.liquidtelecom.com/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/57.gif",
+        "location": "South Africa",
+        "mirror": "Dimension Data",
+        "mirror_link": "http://mirror.is.co.za/mirrors/linuxmint.com/iso/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/57.gif",
+        "location": "South Africa",
+        "mirror": "University of Free State",
+        "mirror_link": "http://mirror.ufs.ac.za/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    },
+    {
+        "img": "https://linuxmint.com/img/flags/57.gif",
+        "location": "South Africa",
+        "mirror": "WIRUlink",
+        "mirror_link": "http://mirror.wiru.co.za/linuxmint/stable/20.2/linuxmint-20.2-cinnamon-64bit.iso"
+    }
+]
